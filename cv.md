@@ -7,4 +7,4 @@
 + Code examples 
 + Experience
 + Education 
-~~English~~
++ ~~English~~
